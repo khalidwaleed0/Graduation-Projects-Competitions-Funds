@@ -46,6 +46,12 @@ Also, some students contributed to this repo (see Acknowledgments) by listing so
            </td>
            <td><li> <a href="http://ec.aast.edu/rallycompetition.php"> <b> Link </b> </a>
          </tr>
+         <tr>
+           <td> Qatar AI MENA  </td>
+           <td> <li> Deadline: January 31, 2022 </li>
+           </td>
+           <td><li> <a href="https://www.qu.edu.qa/competition/aicompetition"> <b> Link </b> </a>
+         </tr>
            <tr>
              <td> UGRF-NU/Egyptian Junior Researcher Competition </td>
              <td> 

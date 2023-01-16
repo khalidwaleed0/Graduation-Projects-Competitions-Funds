@@ -131,7 +131,7 @@ Also, some students contributed to this repo (see Acknowledgments) by listing so
            </tr>
              <tr>
              <td>  E-JUST Dragon camp </td>
-             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information هيبدأ أغسطس-سبتمبر كده </b> </a> </li> </td>
              <td> <li> <a href="https://www.facebook.com/events/547811857096089/?active_tab=discussion"> <b> Link </b> </a> </li> </td>
            </tr>
             <tr>
